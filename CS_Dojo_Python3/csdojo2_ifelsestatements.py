@@ -6,9 +6,9 @@ if small < big:
     print("small is definitely less than big")
 print("unsure if small is less than big")
 
-# --------------------------------
-print("") #adds extra line in print
-# --------------------------------
+# - - -
+# print("") # adds extra line in print
+# - - -
 
 quarter = 25
 dollar = 100 
@@ -19,9 +19,9 @@ else:
     print("I don't think quarter is less than dollar")
 print("outside the 'if' block")
 
-# --------------------------------
-print("") #adds extra line in print
-# --------------------------------
+# - - -
+# print("") # adds extra line in print
+# - - -
 
 quarter = 1
 dollar = 4
@@ -36,9 +36,9 @@ else:
     print("quarter is greater than dollar")
 
 
-# --------------------------------
-print("") #adds extra line in print
-# --------------------------------
+# - - -
+# print("") # adds extra line in print
+# - - -
 
 g = 9
 h = 8
